@@ -13,7 +13,7 @@
    cp config.ts.example config.ts
    ```
 2. Add your api key
-3.```sh
+3. ```sh
    npm install
    ```
 4. ```sh
